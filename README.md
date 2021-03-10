@@ -5,6 +5,6 @@
 
 To run the program simply use
 
-'''
+```
 python base.py
-'''
+```
